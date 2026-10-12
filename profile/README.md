@@ -1,6 +1,6 @@
 # Portico Intelligence
 
-We build **taskforse**, the operating system for commercial cleaning companies.
+We build **taskforse**, the AI-powered operating system for commercial cleaning companies.
 
 A cleaning company runs on shifts, people and phone calls. When someone calls off at 5 a.m., the owner is the one dialing backups. taskforse takes that work over.
 
